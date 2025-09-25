@@ -2,6 +2,10 @@
 Description: Three Python activities with error handling 
 # Logic, Loops & Sorting Lab
 
+** Author**: Mohamed Abdelrazek  
+** Portfolio**: [moeabdelrazek.github.io](https://moeabdelrazek.github.io)  
+** GitHub**: [github.com/MoeAbdelrazek](https://github.com/MoeAbdelrazek)
+
 Three beginner-friendly Python activities:
 
 1. **Discount Logic** — Uses conditional statements to determine customer discounts.
@@ -12,9 +16,3 @@ Three beginner-friendly Python activities:
 
 ```bash
 python logic_loops_sorting.py
-
----
-
-**👨‍💻 Author**: Mohamed Abdelrazek  
-**🌐 Portfolio**: [moeabdelrazek.github.io](https://moeabdelrazek.github.io)  
-**📫 GitHub**: [github.com/MoeAbdelrazek](https://github.com/MoeAbdelrazek)
